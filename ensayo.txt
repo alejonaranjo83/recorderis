@@ -1,0 +1,1 @@
+Esto es una modificación dentro del archivo "txt", para recordar cosas de GIT y GITHUB
